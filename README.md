@@ -12,7 +12,7 @@
         display: flex;
         justify-content: center;
         align-items: center;
-        background-image: url('https://cdn.discordapp.com/attachments/1075137698970476608/1442435283881562196/IMG_5281.png?ex=69256c0a&is=69241a8a&hm=ddf561107d0c9552a1b089afa51bebc19ab877dce313dfb27ce988d135397aa1');
+        background-image: url('[https://cdn.discordapp.com/attachments/1075137698970476608/1442435283881562196/IMG_5281.png?ex=69256c0a&is=69241a8a&hm=ddf561107d0c9552a1b089afa51bebc19ab877dce313dfb27ce988d135397aa1](https://media.discordapp.net/attachments/1075137698970476608/1442435283881562196/IMG_5281.png?ex=69280f0a&is=6926bd8a&hm=961d9475bd2db4857a1e4ddd7b6440c91e3fb33829742116783e9cfb9bda5dfc&=&format=webp&quality=lossless)');
         background-size: cover;
         background-position: center;
         background-repeat: no-repeat;
