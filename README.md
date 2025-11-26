@@ -3,7 +3,8 @@
 <head>
 <meta charset="UTF-8">
 <title>mama mo</title>
-<style>
+
+    <style>
     body {
         margin: 0;
         padding: 0;
